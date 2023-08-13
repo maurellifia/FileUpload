@@ -10,11 +10,11 @@
         <h1> Upload File and Add Email here</h1>
 
         <p>Input your email here</p>
-        <input type="email" name="email" required/>
+        <input type="email" name="email" required>
         <br>
         <br>
         <label>Select file to upload (JPEG or PNG)</label>
-        <input type="file" name="file" accept="JPEG, PNG" required />
+        <input type="file" name="file" accept="JPEG, PNG" required>
         <br>
         <br>
         <input type="submit" value="Sumbit">
